@@ -1,70 +1,83 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sahilpatil009/sahilpatil009/main/83f1b00d6c9.gif" width="100%" style="border-radius: 15px;" alt="Header" />
+<img src="https://raw.githubusercontent.com/sahilpatil009/sahilpatil009/main/83f1b00d6c9.gif" width="100%" alt="Pixel Art Header" />
 
-<br/>
+# ⚡ Rushikesh Rathod
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Full+Stack+AI+Developer;Computer+Vision+Enthusiast;Building+Intelligent+Systems;Competitive+Programmer" alt="Typing SVG" />
 
-# 😎 Hey! Nice to see you
-### <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Full+Stack+AI+Developer;Computer+Vision+Specialist;Building+Intelligent+Systems;Competitive+Programmer" alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rushirathod22&color=0078d7&style=flat-square&label=Profile+views" alt="views" />
-  <img src="https://img.shields.io/github/commit-activity/m/rushirathod22?color=0078d7&label=commit+activity&style=flat-square" alt="commit activity" />
-  <img src="https://img.shields.io/github/followers/rushirathod22?label=Followers&style=flat-square" alt="followers" />
-  <img src="https://img.shields.io/badge/Profile_update-april-97ca00?style=flat-square" alt="profile update" />
-</p>
-
----
-
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  [![github-trophies](https://github-profile-trophy.vercel.app/?username=rushirathod22&theme=tokyonight&no-bg=true&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-
----
-
-## 🚀 The Mission
-I am a **Computer Science & AI student** at VIT, Pune, focused on bridging the gap between raw data and human-centric software. I specialize in building **intelligent full-stack systems**.
-
-- 🔭 **Current Focus:** Advanced Semantic Segmentation for Offroad Environments (**DesertLens AI**).
-- 🧪 **Researching:** Optimizing LLM inference for edge devices.
-- ⚡ **Fun Fact:** I treat debugging like a high-stakes puzzle game.
-
----
-
-## 🛠 Tech Universe
+[![Followers](https://img.shields.io/github/followers/rushirathod22?label=Followers&style=social)](https://github.com/rushirathod22)
+[![Stars](https://img.shields.io/github/stars/rushirathod22?label=Stars&style=social)](https://github.com/rushirathod22)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,pytorch,opencv,react,tailwind,mysql,mongodb,arduino,git,docker" />
+  <a href="#about">About</a> •
+  <a href="#snake">Activity</a> •
+  <a href="#tech">Tech Stack</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#stats">Stats</a> •
+  <a href="#contact">Contact</a>
 </p>
 
----
-
-## 🐍 Live Activity Feed
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rushirathod22/rushirathod22/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Game" />
 </div>
 
 ---
 
-## 📊 Analytics Dashboard
+## 📖 About Me <a name="about"></a>
+- 🎓 Pursuing **B.Tech in Computer Science & AI** at VIT, Pune.
+- 🚀 Passionate about bridging the gap between **Artificial Intelligence** and **Web Technologies**.
+- 🛠 Currently exploring **Semantic Segmentation** and **LLMs**.
+- 🎮 Fun Fact: I enjoy blending pop culture with functional code.
 
+---
+
+## 🐍 Snake Contribution Game <a name="snake"></a>
 <div align="center">
+  <img src="https://raw.githubusercontent.com/rushirathod22/rushirathod22/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</div>
 
-| **Core Statistics** | **Language Distribution** |
+---
+
+## 🛠 Tech Stack <a name="tech"></a>
+
+| Category | Tools & Technologies |
 | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=rushirathod22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="200px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushirathod22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="200px" /> |
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **AI / ML** | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Web Dev** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rushirathod22&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="100%" />
+---
+
+## 🏗 Top Projects <a name="projects"></a>
+* 🛡 **Smart Helmet:** Arduino-based accident detection & emergency alert system.
+* 🚗 **DesertLens AI:** Offroad semantic segmentation using Segformer.
+* 💼 **CareerAI:** AI-powered internship and hackathon planning platform.
+* 🎮 **Shinchan Tic-Tac-Toe:** Interactive web-based game.
+
+---
+
+## 📈 My GitHub Journey <a name="stats"></a>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rushirathod22&theme=tokyonight&area=true&hide_border=true)
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rushirathod22&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushirathod22&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 
 </div>
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Connect with me <a name="contact"></a>
 <p align="center">
-<a href="mailto:rushikesh.rathod24@vit.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/rushirathod22"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rushirathod22&color=F7DF1E&style=flat-square&label=PROFILE+VIEWS" alt="views" />
+<br>
+<b>Visitor Count</b>
+</div>

@@ -1,53 +1,74 @@
 <div align="center">
-  
+
 <img src="https://raw.githubusercontent.com/sahilpatil009/sahilpatil009/main/83f1b00d6c9.gif" width="100%" alt="Pixel Art Header" />
 
-# 👋 Hi, I'm Rushikesh Rathod
-### Future Software Engineer | Open Source Enthusiast
+# ⚡ Rushikesh Rathod
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Full+Stack+AI+Developer;Computer+Vision+Enthusiast;Building+Intelligent+Systems;Competitive+Programmer" alt="Typing SVG" />
+
+[![Followers](https://img.shields.io/github/followers/rushirathod22?label=Followers&style=social)](https://github.com/rushirathod22)
+[![Stars](https://img.shields.io/github/stars/rushirathod22?label=Stars&style=social)](https://github.com/rushirathod22)
+
+---
+
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#tech">Tech Stack</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#stats">Stats</a> •
+  <a href="#contact">Contact</a>
+</p>
 
 </div>
 
----
-
-## 📖 About Me
-
-> "Talk is cheap. Show me the code." — *Linus Torvalds*
-
-* 🚀 **Building:** Interactive web apps like **Shinchan Tic-Tac-Toe** and **CareerAI**.
-* 🧠 **Specializing in:** Computer Vision (**OpenCV**), Python, and C++.
-* 📍 **Location:** Pune, India.
-* ⚡ **Fun Fact:** I love building nostalgic projects like the **Doremon To-Do List**.
+## 📖 About Me <a name="about"></a>
+- 🎓 Pursuing **B.Tech in Computer Science & AI** at VIT, Pune.
+- 🚀 Passionate about bridging the gap between **Artificial Intelligence** and **Web Technologies**.
+- 🛠 Currently exploring **Semantic Segmentation** and **Large Language Models (LLMs)**.
+- 🎮 Fun Fact: I love blending pop culture (Shinchan/Doraemon) with functional code.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack <a name="tech"></a>
 
-### 🤖 AI / Computer Vision / Backend
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 💻 Frontend Development
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **AI/ML** | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) |
+| **Web** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **Hardware** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) |
 
 ---
 
-## 📊 Activity & Stats
+## 🏗 Top Projects <a name="projects"></a>
+- 🛡 **Smart Helmet:** Arduino-based accident detection & emergency alert system.
+- 🚗 **DesertLens AI:** Offroad semantic segmentation using Segformer.
+- 💼 **CareerAI:** AI-powered internship and hackathon planning platform.
+- 🏛 **LegalEase AI:** React-based legal assistant with a custom chatbot.
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rushirathod22&theme=tokyonight&area=true)
+---
+
+## 📈 My GitHub Journey <a name="stats"></a>
 
 <div align="center">
 
-![Rushikesh's Stats](https://github-readme-stats.vercel.app/api?username=rushirathod22&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushirathod22&layout=compact&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rushirathod22&theme=tokyonight&area=true&hide_border=true)
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rushirathod22&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushirathod22&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 
 </div>
 
 ---
 
-## 🤝 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+## 🤝 Connect with me <a name="contact"></a>
+<p align="center">
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rushirathod22&color=yellowgreen&style=flat-square&label=PROFILE+VIEWS" alt="views" />
+</div>

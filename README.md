@@ -60,6 +60,11 @@
 
 </div>
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rushirathod22/rushirathod22/output/github-contribution-grid-snake.svg" alt="snake game" />
+</div>
+
 ---
 
 ## 🤝 Connect with me <a name="contact"></a>

@@ -147,7 +147,7 @@ Interactive web-based game blending pop culture with clean frontend engineering.
 ## `$ snake --contribution-game`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rushirathod22/rushirathod22/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+  <img src="https://raw.githubusercontent.com/rushirathod22/rushirathod22/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
 
 ---

@@ -22,7 +22,7 @@
 </div>
 
 ## 🚀 The Mission
-I am a **Computer Science & AI student** at VIT, Pune, focused on bridging the gap between raw data and human-centric software. I specialize in building **intelligent full-stack systems** that solve real-world problems.
+I am a **Computer Science & AI student** at VIT, Pune, focused on bridging the gap between raw data and human-centric software. I specialize in building **intelligent full-stack systems**.
 
 - 🔭 **Current Focus:** Advanced Semantic Segmentation for Offroad Environments.
 - 🧪 **Researching:** Optimizing LLM inference for edge devices.
@@ -34,15 +34,28 @@ I am a **Computer Science & AI student** at VIT, Pune, focused on bridging the g
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,react,tailwind,mysql,mongodb,arduino,git,docker" />
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,react,nextjs,tailwind,mysql,mongodb,arduino,git,docker" />
 </p>
 
 ---
 
-## 🐍 Live Activity Feed
+## 🐍 Contribution Hero (Auto-Updated)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rushirathod22/rushirathod22/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Game" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rushirathod22/rushirathod22/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rushirathod22/rushirathod22/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rushirathod22/rushirathod22/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+---
+
+## 🏗 Featured Deployments
+| Project | Status | Tech Stack |
+| :--- | :--- | :--- |
+| **Smart Helmet System** | 📜 [Patent Published] | `Arduino`, `Android`, `IoT` |
+| **DesertLens AI** | 🏎 [Active Development] | `PyTorch`, `Segformer`, `CV` |
+| **LegalEase AI** | ⚖️ [Hackathon Winner] | `Next.js`, `OpenAI`, `Tailwind` |
 
 ---
 
@@ -50,20 +63,14 @@ I am a **Computer Science & AI student** at VIT, Pune, focused on bridging the g
 
 <div align="center">
 
-| **Core Statistics** | **Language Distribution** |
-| :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=rushirathod22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="200px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushirathod22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="200px" /> |
+<img src="https://github-readme-stats.vercel.app/api?username=rushirathod22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushirathod22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180px" />
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushirathod22&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="100%" />
 
 </div>
-
----
-
-## 🏗 Key Deployments
-- 🛡 **Smart Helmet:** IoT-based safety system for riders.
-- 🚗 **DesertLens AI:** Segformer-based segmentation for desert terrains.
-- 💼 **CareerAI:** AI-driven internship & roadmap platform.
 
 ---
 
@@ -75,5 +82,5 @@ I am a **Computer Science & AI student** at VIT, Pune, focused on bridging the g
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rushirathod22&color=F7DF1E&style=flat-square&label=EYES+ON+PROFILE" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=rushirathod22&color=F7DF1E&style=flat-square&label=PROFILE+VIEWS" alt="views" />
 </div>

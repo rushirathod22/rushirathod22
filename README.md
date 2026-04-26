@@ -16,7 +16,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-[![github-trophies](https://[github-profile-trophy.vercel.app](https://github-profile-trophy-rosy-gamma.vercel.app/)/?username=rushirathod22&theme=tokyonight&no-bg=true&no-frame=true&column=4&cache=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![github-trophies](https://github-profile-trophy-rosy-gamma.vercel.app//?username=rushirathod22&theme=tokyonight&no-bg=true&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 

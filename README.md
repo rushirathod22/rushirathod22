@@ -56,8 +56,7 @@ I am a **Computer Science & AI Engineer** at VIT, Pune, specialized in bridging 
 
 ---
 
-## 💻 Coding Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/rushirathod22?theme=dark&font=Fira%20Code)](https://leetcode.com/rushirathod22)
+
 
 ## 📊 Performance Analytics
 

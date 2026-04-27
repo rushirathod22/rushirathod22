@@ -37,7 +37,7 @@ I am a **Computer Science & AI Engineer** at VIT, Pune, specialized in bridging 
 ### 🌐 Full Stack Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,tailwind,html,css" />
-</p>
+ </p>
 
 ### 🗄️ Database & Tools
 <p align="left">
@@ -55,6 +55,9 @@ I am a **Computer Science & AI Engineer** at VIT, Pune, specialized in bridging 
 | **Smart Helmet** | IoT / Android | `Arduino` `Bluetooth` | [Case Study](https://github.com/rushirathod22) |
 
 ---
+
+## 💻 Coding Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/rushirathod22?theme=dark&font=Fira%20Code)](https://leetcode.com/rushirathod22)
 
 ## 📊 Performance Analytics
 

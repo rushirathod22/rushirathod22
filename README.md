@@ -96,12 +96,12 @@
 
 <p align="center">
   <img
+    src="https://github-readme-stats.vercel.app/api?username=rushirathod22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=rushirathod22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
   />
   <img
-    height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushirathod22&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
   />
 </p>
 

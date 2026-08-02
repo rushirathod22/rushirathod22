@@ -54,26 +54,22 @@
 </p>
 
 ---
+# 🗺️ Roadmap & Project Timeline
 
-# 🎯 Current Focus
-
-- 🤖 **AI Agents & LLMs**
-- 🧠 **Semantic Segmentation & Computer Vision**
-- ⚡ **MLOps & Model Deployment**
-- 🌐 **Scalable Full Stack Applications**
-- 📱 **Mobile AI Integration**
-
----
-
-# 🌟 Featured Projects
-
-| Project | Description |
-| :--- | :--- |
-| 🪖 **Smart Helmet** | AI + IoT accident detection & emergency alert system |
-| 🌵 **DesertLens AI** | Off-road semantic segmentation using Transformer models (SegFormer) |
-| 🎓 **CareerAI** | AI-driven personalized career guidance and roadmap generation platform |
-| 💬 **Multilingual Voice Support** | Gen-AI desk support voice assistant for banking services |
-
+```mermaid
+timeline
+    title Rushikesh Rathod - Project Timeline
+    section 2024
+        Smart Classroom Vision : Computer Vision + IoT Smart Classroom
+        Study Mitra : Student Productivity & Learning Platform
+    section 2025
+        🪖 Smart Helmet : AI + IoT Accident Detection System
+        🔍 TruthLens : AI Deepfake & Bias Detection
+        🌞 Nature Tek Solar : Automated Customer Support Bot
+    section 2026 (Ongoing)
+        🎬 Movie Recommendation : ML Recommendation Engine
+        💼 Open Source Contributions : Core Tools & Global Projects
+🛠 Tech StackLanguagesFrontendBackendAI & MLDatabase & Tools🎯 Current Focus🤖 AI Agents & LLMs🧠 Semantic Segmentation & Computer Vision⚡ MLOps & Model Deployment🌐 Scalable Full Stack Applications📱 Mobile AI Integration🌟 Featured ProjectsProjectDescription🪖 Smart HelmetAI + IoT accident detection & emergency alert system🔍 TruthLensAI-driven deepfake analysis & bias detection platform🌞 Nature Tek SolarAutomated AI customer support assistant📚 Study MitraStudent productivity platform and study assistant🎬 Movie RecommendationML-powered personalized recommendation engine👁️ Smart Classroom VisionComputer Vision + IoT integration for smart classrooms💼 Open Source ContributionsContributions to AI, Web Dev, and MLOps tools
 ---
 
 # 🏆 Achievements

@@ -91,7 +91,9 @@
 
 <p align="center">
   <!-- Primary Stats Card (Using Vercel Mirror with GitHub Camo Cache Bypass) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <p align="center">
+  <!-- GitHub Readme Stats -->
+  <a href="https://github.com/rushirathod22">
     <img 
       src="https://github-readme-stats-sigma-five.vercel.app/api?username=rushirathod22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
       alt="Rushikesh's GitHub Stats" 
@@ -99,7 +101,7 @@
     />
   </a>
   <!-- Top Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/rushirathod22">
     <img 
       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rushirathod22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
       alt="Top Languages" 
@@ -107,7 +109,6 @@
     />
   </a>
 </p>
-
 <p align="center">
   <!-- GitHub Streak Stats -->
   <img 

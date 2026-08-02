@@ -88,32 +88,38 @@
 # 📈 Open Source & GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rushirathod22&theme=tokyonight"/>
+  <!-- GitHub Readme Stats - Primary Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=rushirathod22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+      alt="Rushikesh's GitHub Stats" 
+      height="180"
+    />
+  </a>
+  <!-- Top Languages Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushirathod22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+      alt="Top Languages" 
+      height="180"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rushirathod22&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <!-- GitHub Streak Stats (Working perfectly in your screenshot) -->
+  <img 
+    src="https://streak-stats.demolab.com?user=rushirathod22&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushirathod22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushirathod22&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rushirathod22&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushirathod22&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rushirathod22/rushirathod22/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <!-- GitHub Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rushirathod22&theme=tokyo-night&hide_border=true" 
+    alt="Activity Graph" 
+  />
 </p>
 
 ---

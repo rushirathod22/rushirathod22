@@ -18,43 +18,89 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 **B.Tech Computer Science (Artificial Intelligence)** at **VIT Pune**  
-📍 **Pune, India**  
+🎓 **B.Tech Computer Science (Artificial Intelligence)** at **VIT Pune**
+📍 **Pune, India**
 💡 Passionate about **AI Systems**, **Computer Vision**, **MLOps**, and **Full Stack Development**.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Technology Stack Overview
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts"/>
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
-</p>
-
-### AI & ML
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
-</p>
-
-### Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,linux,arduino,vscode"/>
-</p>
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Primary Tools & Frameworks</th>
+  </tr>
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / Machine Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend Development</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases / Storage</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>IoT & Embedded Systems</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Editor</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
-# 🗺️ Roadmap & Project Timeline
+
+## 🗺️ Roadmap & Project Timeline
 
 ```mermaid
 timeline
@@ -63,67 +109,150 @@ timeline
         Smart Classroom Vision : Computer Vision + IoT Smart Classroom
         Study Mitra : Student Productivity & Learning Platform
     section 2025
-        🪖 Smart Helmet : AI + IoT Accident Detection System
-        🔍 TruthLens : AI Deepfake & Bias Detection
-        🌞 Nature Tek Solar : Automated Customer Support Bot
+        Smart Helmet : AI + IoT Accident Detection System
+        TruthLens : AI Deepfake & Bias Detection
+        Nature Tek Solar : Automated Customer Support Bot
     section 2026 (Ongoing)
-        🎬 Movie Recommendation : ML Recommendation Engine
-        💼 Open Source Contributions : Core Tools & Global Projects
-🛠 Tech StackLanguagesFrontendBackendAI & MLDatabase & Tools🎯 Current Focus🤖 AI Agents & LLMs🧠 Semantic Segmentation & Computer Vision⚡ MLOps & Model Deployment🌐 Scalable Full Stack Applications📱 Mobile AI Integration🌟 Featured ProjectsProjectDescription🪖 Smart HelmetAI + IoT accident detection & emergency alert system🔍 TruthLensAI-driven deepfake analysis & bias detection platform🌞 Nature Tek SolarAutomated AI customer support assistant📚 Study MitraStudent productivity platform and study assistant🎬 Movie RecommendationML-powered personalized recommendation engine👁️ Smart Classroom VisionComputer Vision + IoT integration for smart classrooms💼 Open Source ContributionsContributions to AI, Web Dev, and MLOps tools
----
-
-# 🏆 Achievements
-
-- 🥇 3× Published Patents
-- 💻 Built & Deployed Multiple End-to-End AI/ML Systems
-- 🚀 Active Hackathon Competitor & Winner
-- 📖 Dedicated Open Source Contributor
+        Movie Recommendation : ML Recommendation Engine
+        Open Source Contributions : Core Tools & Global Projects
+```
 
 ---
 
-# 📈 Open Source & GitHub Analytics
+## 🎯 Current Focus
 
-# 📈 Open Source & GitHub Analytics
+<p>
+  <img src="https://img.shields.io/badge/🤖_AI_Agents_%26_LLMs-58A6FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🧠_Semantic_Segmentation_%26_CV-7C3AED?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⚡_MLOps_%26_Model_Deployment-FF6F00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐_Scalable_Full_Stack_Apps-2496ED?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📱_Mobile_AI_Integration-EA4335?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Built With</th>
+  </tr>
+  <tr>
+    <td>🪖 <b>Smart Helmet</b></td>
+    <td>AI + IoT accident detection & emergency alert system</td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>🔍 <b>TruthLens</b></td>
+    <td>AI-driven deepfake analysis & bias detection platform</td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td>🌞 <b>Nature Tek Solar</b></td>
+    <td>Automated AI customer support assistant</td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td>📚 <b>Study Mitra</b></td>
+    <td>Student productivity platform and study assistant</td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>🎬 <b>Movie Recommendation</b></td>
+    <td>ML-powered personalized recommendation engine</td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>👁️ <b>Smart Classroom Vision</b></td>
+    <td>Computer Vision + IoT integration for smart classrooms</td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>💼 <b>Open Source Contributions</b></td>
+    <td>Contributions to AI, Web Dev, and MLOps tools</td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+> 💡 *Add GitHub repo links to project names once repos are public, e.g. `[Smart Helmet](https://github.com/rushirathod22/smart-helmet)`*
+
+---
+
+## 🏆 Achievements
+
+<p>
+  <img src="https://img.shields.io/badge/🥇_3×_Published_Patents-FFD700?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/💻_End--to--End_AI%2FML_Systems-58A6FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🚀_Hackathon_Winner-7C3AED?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📖_Open_Source_Contributor-2EC866?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
+
+## 📈 Open Source & GitHub Analytics
 
 <p align="center">
-  <!-- Primary Stats Card (Using Vercel Mirror with GitHub Camo Cache Bypass) -->
-  <p align="center">
-  <!-- GitHub Readme Stats -->
   <a href="https://github.com/rushirathod22">
-    <img 
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=rushirathod22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-      alt="Rushikesh's GitHub Stats" 
+    <img
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=rushirathod22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+      alt="Rushikesh's GitHub Stats"
       height="180"
     />
   </a>
-  <!-- Top Languages Card -->
   <a href="https://github.com/rushirathod22">
-    <img 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rushirathod22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-      alt="Top Languages" 
+    <img
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rushirathod22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+      alt="Top Languages"
       height="180"
     />
   </a>
 </p>
+
 <p align="center">
-  <!-- GitHub Streak Stats -->
-  <img 
-    src="https://streak-stats.demolab.com?user=rushirathod22&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
+  <img
+    src="https://streak-stats.demolab.com?user=rushirathod22&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
-  <!-- GitHub Activity Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rushirathod22&theme=tokyo-night&hide_border=true" 
-    alt="Activity Graph" 
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rushirathod22&theme=tokyo-night&hide_border=true"
+    alt="Activity Graph"
   />
 </p>
 
 ---
 
-# 💻 Coding Profiles
+## 💻 Coding Profiles
 
 <p>
   <a href="https://leetcode.com/rushirathod22"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
@@ -134,7 +263,7 @@ timeline
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:rushirathod22082005@gmail.com">

@@ -102,20 +102,44 @@
 
 ## 🗺️ Roadmap & Project Timeline
 
-```mermaid
-timeline
-    title Rushikesh Rathod - Project Timeline
-    section 2024
-        Smart Classroom Vision : Computer Vision + IoT Smart Classroom
-        Study Mitra : Student Productivity & Learning Platform
-    section 2025
-        Smart Helmet : AI + IoT Accident Detection System
-        TruthLens : AI Deepfake & Bias Detection
-        Nature Tek Solar : Automated Customer Support Bot
-    section 2026 (Ongoing)
-        Movie Recommendation : ML Recommendation Engine
-        Open Source Contributions : Core Tools & Global Projects
-```
+<table>
+  <tr>
+    <th align="left">Year</th>
+    <th align="left">Milestone</th>
+    <th align="left">Description</th>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top"><b>2025</b></td>
+    <td>🪖 Smart Helmet</td>
+    <td>AI + IoT Accident Detection System</td>
+  </tr>
+  <tr>
+    <td>🎯 Object Detection</td>
+    <td>Real-time Object Detection using Computer Vision</td>
+  </tr>
+  <tr>
+    <td rowspan="3" valign="top"><b>2026<br/><sub>(Completed)</sub></b></td>
+    <td>👁️ Smart Classroom Vision</td>
+    <td>Computer Vision + IoT Smart Classroom</td>
+  </tr>
+  <tr>
+    <td>📚 Study Mitra</td>
+    <td>Student Productivity & Learning Platform</td>
+  </tr>
+  <tr>
+    <td>🌞 Nature Tek Solar</td>
+    <td>Automated Customer Support Bot</td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top"><b>2026<br/><sub>(Ongoing)</sub></b></td>
+    <td>🎬 Movie Recommendation</td>
+    <td>ML Recommendation Engine</td>
+  </tr>
+  <tr>
+    <td>💼 Open Source Contributions</td>
+    <td>Core Tools & Global Projects</td>
+  </tr>
+</table>
 
 ---
 

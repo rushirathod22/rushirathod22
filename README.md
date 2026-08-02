@@ -87,11 +87,13 @@
 
 # 📈 Open Source & GitHub Analytics
 
+# 📈 Open Source & GitHub Analytics
+
 <p align="center">
-  <!-- GitHub Readme Stats - Primary Stats Card -->
+  <!-- Primary Stats Card (Using Vercel Mirror with GitHub Camo Cache Bypass) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=rushirathod22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=rushirathod22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
       alt="Rushikesh's GitHub Stats" 
       height="180"
     />
@@ -99,7 +101,7 @@
   <!-- Top Languages Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushirathod22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rushirathod22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
       alt="Top Languages" 
       height="180"
     />
@@ -107,7 +109,7 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Stats (Working perfectly in your screenshot) -->
+  <!-- GitHub Streak Stats -->
   <img 
     src="https://streak-stats.demolab.com?user=rushirathod22&theme=tokyonight&hide_border=true" 
     alt="GitHub Streak" 

@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=250&section=header&text=Rushikesh%20Rathod&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<h1>Hi 👋 I'm Rushikesh Rathod</h1>
+<h1>Hi 👋 I'm Rushikesh Rathod😎</h1>
 
 <h3>AI Engineer • Full Stack Developer • Computer Vision Enthusiast</h3>
 

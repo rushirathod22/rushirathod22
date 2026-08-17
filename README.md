@@ -4,7 +4,7 @@
 
 <h1>Hi 👋 I'm Rushikesh Rathod😎</h1>
 
-<h3>AI Engineer • Full Stack Developer • Computer Vision Enthusiast</h3>
+<h3>AI Engineer • Full Stack Developer • Computer Vision Enthusiast • Machine Learning </h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Building+Intelligent+Systems;Machine+Learning+%7C+Computer+Vision;Always+Learning+New+Technologies" />
 

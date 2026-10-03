@@ -4,19 +4,48 @@
 
 🤖 Interested in Artificial Intelligence, Machine Learning and Generative AI
 
-💻 I enjoy building projects, participating in hackathons and learning new technologies
+💻 I enjoy building projects, participating in hackathons and exploring new technologies
 
-🌱 Currently learning DSA, GenAI, MLOps and Full-Stack Development
+🌱 Currently learning DSA, Generative AI, MLOps and Full-Stack Development
 
 🤝 Looking to collaborate on AI/ML, Open Source and interesting tech projects
 
 ⚡ Fun fact: I love turning random ideas into working projects 🚀
 
 
+## 👨‍💻 About Me
+
+Hi! I'm Rushi, a Computer Science student specializing in Artificial Intelligence at VIT Pune.
+
+I enjoy building practical projects in AI, Machine Learning and Full-Stack Development. I also love participating in hackathons, experimenting with new technologies and solving problems through code.
+
+Currently, I'm focusing on improving my DSA skills and exploring Generative AI, MLOps and modern backend technologies.
+
+
 ## 🛠️ Tech Stack
 
+### 👨‍💻 Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,fastapi,flask,mysql,firebase,git,github,docker,linux,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,sql" />
+</p>
+
+### ⚙️ Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,fastapi,flask,nodejs,html,css,git,github,docker,linux" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+### 📚 Libraries & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
 </p>
 
 
@@ -39,36 +68,52 @@
 </p>
 
 
-## 📫 Contact
+## 📫 Contact Me
 
-For collaboration or project work, reach me at:
+For collaboration or project work, feel free to reach out.
 
-📧 [Email Me](mailto:YOUR_EMAIL)
+📧 **Email:** [Contact Me](mailto:YOUR_EMAIL)
 
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushirathod22&show_icons=true&theme=gotham" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=rushirathod22&show_icons=true&theme=tokyonight&hide_border=true" />
+
 </p>
 
 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushirathod22&layout=compact&theme=gotham" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushirathod22&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
+
+
+## 🏆 What I'm Working On
+
+- 🤖 Artificial Intelligence & Machine Learning projects
+- 🧠 Generative AI applications
+- 💻 Full-Stack applications
+- 🏆 Hackathons and technical competitions
+- 🌐 Open Source projects
+- 📚 DSA and problem solving
 
 
 ## 📊 My Contributions
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+
 </p>
 
 
 ---
 
 <p align="center">
-  Made with ❤️ and lots of ☕
+  🚀 Keep Learning • Keep Building • Keep Exploring
 </p>

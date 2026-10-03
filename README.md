@@ -86,6 +86,10 @@ For collaboration or project work? Do reach, [email](mailto:YOUR_EMAIL) :)
 
 ---
 
+## 📊 My Contributions
+
+![](./profile-3d-contrib/profile-green-dual.svg)
+
 <p align="center">
   Made with ❤️ and lots of ☕
 </p>

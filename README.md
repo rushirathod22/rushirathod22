@@ -13,7 +13,8 @@
 ⚡ Fun fact: I love turning random ideas into working projects 🚀
 
 
-## 👨‍💻 About Me   <img width="2172" height="724" alt="AI Engineering Student Badge" src="https://github.com/user-attachments/assets/0956487b-cf60-43ec-815d-872f8a3a2ff8" />
+## 👨‍💻 About Me   <img width="2173" height="724" alt="AI Engineering Student Badge (1)" src="https://github.com/user-attachments/assets/527ecf1f-3d1b-423e-817e-e19d7b6831d5" />
+
 
 
 

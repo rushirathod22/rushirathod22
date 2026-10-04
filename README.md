@@ -13,15 +13,14 @@
 ⚡ Fun fact: I love turning random ideas into working projects
 
 
-## 👨‍💻 About Me
-
-<p align="left">
+<h2>
+  👨‍💻 About Me
   <img 
     src="https://github.com/user-attachments/assets/527ecf1f-3d1b-423e-817e-e19d7b6831d5"
-    width="360"
-    alt="AI Engineering Student"
+    width="300"
+    align="right"
   />
-</p>
+</h2>
 
 Hi! I'm **Rushi**, a Computer Science student specializing in **Artificial Intelligence at VIT Pune**.
 

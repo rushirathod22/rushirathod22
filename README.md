@@ -13,7 +13,8 @@
 ⚡ Fun fact: I love turning random ideas into working projects 🚀
 
 
-## 👨‍💻 About Me   <img width="138" height="53" alt="image" src="https://github.com/user-attachments/assets/4353fb42-48fb-410e-8662-f54b57f6a9f6" />
+## 👨‍💻 About Me   <img width="2172" height="724" alt="AI Engineering Student Badge" src="https://github.com/user-attachments/assets/0956487b-cf60-43ec-815d-872f8a3a2ff8" />
+
 
 
 Hi! I'm Rushi, a Computer Science student specializing in Artificial Intelligence at VIT Pune.

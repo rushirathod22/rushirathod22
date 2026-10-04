@@ -13,25 +13,8 @@
 ⚡ Fun fact: I love turning random ideas into working projects
 
 
-<p align="right">
-  <a href="#about-me">
-    <img
-      src="https://github.com/user-attachments/assets/527ecf1f-3d1b-423e-817e-e19d7b6831d5"
-      width="260"
-      alt="AI Engineering Student"
-    />
-  </a>
-</p>
+<img width="1157" height="187" alt="image" src="https://github.com/user-attachments/assets/9f72c7b5-4ca0-4afb-839e-e0eb21d746e5" />
 
-<a id="about-me"></a>
-
-## 👨‍💻 About Me
-
-Hi! I'm **Rushi**, a Computer Science student specializing in **Artificial Intelligence at VIT Pune**.
-
-I enjoy building practical projects in **AI, Machine Learning and Full-Stack Development**. I also enjoy participating in hackathons, experimenting with new technologies and solving problems through code.
-
-Currently, I'm focusing on improving my **DSA skills** and exploring **Generative AI, MLOps and modern backend technologies**.
 
 ## 🛠️ Tech Stack
 

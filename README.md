@@ -10,19 +10,24 @@
 
 🤝 Looking to collaborate on AI/ML, Open Source and interesting tech projects
 
-⚡ Fun fact: I love turning random ideas into working projects 🚀
+⚡ Fun fact: I love turning random ideas into working projects
 
 
-## 👨‍💻 About Me   <img width="2173" height="724" alt="AI Engineering Student Badge (1)" src="https://github.com/user-attachments/assets/527ecf1f-3d1b-423e-817e-e19d7b6831d5" />
+## 👨‍💻 About Me
 
+<p align="left">
+  <img 
+    src="https://github.com/user-attachments/assets/527ecf1f-3d1b-423e-817e-e19d7b6831d5"
+    width="360"
+    alt="AI Engineering Student"
+  />
+</p>
 
+Hi! I'm **Rushi**, a Computer Science student specializing in **Artificial Intelligence at VIT Pune**.
 
+I enjoy building practical projects in **AI, Machine Learning and Full-Stack Development**. I also enjoy participating in hackathons, experimenting with new technologies and solving problems through code.
 
-Hi! I'm Rushi, a Computer Science student specializing in Artificial Intelligence at VIT Pune.
-
-I enjoy building practical projects in AI, Machine Learning and Full-Stack Development. I also love participating in hackathons, experimenting with new technologies and solving problems through code.
-
-Currently, I'm focusing on improving my DSA skills and exploring Generative AI, MLOps and modern backend technologies.
+Currently, I'm focusing on improving my **DSA skills** and exploring **Generative AI, MLOps and modern backend technologies**.
 
 
 ## 🛠️ Tech Stack
@@ -73,7 +78,7 @@ Currently, I'm focusing on improving my DSA skills and exploring Generative AI, 
 
 ## 📫 Contact Me
 
-For collaboration or project work, feel free to reach out.
+For collaboration, project work or interesting technical discussions, feel free to reach out.
 
 📧 **Email:** [Contact Me](mailto:YOUR_EMAIL)
 
@@ -82,7 +87,10 @@ For collaboration or project work, feel free to reach out.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rushirathod22&show_icons=true&theme=tokyonight&hide_border=true" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=rushirathod22&show_icons=true&theme=tokyonight&hide_border=true"
+  width="500"
+/>
 
 </p>
 
@@ -91,26 +99,41 @@ For collaboration or project work, feel free to reach out.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushirathod22&layout=compact&theme=tokyonight&hide_border=true" />
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushirathod22&layout=compact&theme=tokyonight&hide_border=true"
+  width="400"
+/>
 
 </p>
 
 
 ## 🏆 What I'm Working On
 
-- 🤖 Artificial Intelligence & Machine Learning projects
-- 🧠 Generative AI applications
-- 💻 Full-Stack applications
-- 🏆 Hackathons and technical competitions
-- 🌐 Open Source projects
-- 📚 DSA and problem solving
+- Artificial Intelligence and Machine Learning projects
+- Generative AI applications
+- Full-Stack applications
+- Hackathons and technical competitions
+- Open Source projects
+- DSA and problem solving
 
 
 ## 📊 My Contributions
 
 <p align="center">
 
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+<img 
+  src="./profile-3d-contrib/profile-night-view.svg"
+  width="100%"
+/>
+
+</p>
+
+
+## 🚀 Current Focus
+
+<p align="center">
+
+`AI/ML` • `Generative AI` • `DSA` • `MLOps` • `Full-Stack Development`
 
 </p>
 
@@ -118,5 +141,5 @@ For collaboration or project work, feel free to reach out.
 ---
 
 <p align="center">
-  🚀 Keep Learning • Keep Building • Keep Exploring
+  <b>Keep Learning • Keep Building • Keep Exploring</b>
 </p>

@@ -33,7 +33,6 @@ I enjoy building practical projects in **AI, Machine Learning and Full-Stack Dev
 
 Currently, I'm focusing on improving my **DSA skills** and exploring **Generative AI, MLOps and modern backend technologies**.
 
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages

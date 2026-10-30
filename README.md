@@ -44,7 +44,7 @@ Currently, I'm focusing on improving my **DSA skills** and exploring **Generativ
   <img src="https://skillicons.dev/icons?i=react,fastapi,flask,nodejs,html,css,git,github,docker,linux" />
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI / Ml
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
